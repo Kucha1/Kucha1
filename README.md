@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kucha1
-- 👀 I’m interested in micricontrollers programing.
+- 👀 I’m interested in microcontrollers programing.
 - 🌱 I’m currently learning C programing.
-- 📫 How to reach me mecrocontollers.
+- 📫 How to reach me microcontollers.
 
 <!---
 Kucha1/Kucha1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
